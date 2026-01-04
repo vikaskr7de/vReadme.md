@@ -1,17 +1,17 @@
 # Hello, I'm Vikas
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vikaskr7"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+[Brief Introduction]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+ I am an aspiring SOC Analyst and Computer Science student with a strong foundation in cybersecurity, network defense, and security monitoring. My learning journey began with Linux fundamentals and system behavior analysis, which naturally led me to explore network traffic, security alerts, and real-world cyber threats.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+[Provide Objective]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+[Provide skills and associated project. Make sure to hyperlink the project ]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
